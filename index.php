@@ -235,7 +235,7 @@
 
                 <div class="col-lg-6">
 
-                    <img src="https://img.bestdealplus.com/ae04/kf/H6bbdb64b0a644572994e2447e0da113ai.jpg"
+                    <img src="asset/img/images (1).png"
                         class="img-fluid rounded">
 
                 </div>
